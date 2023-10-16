@@ -4,8 +4,7 @@
 
 
 Skills: HTML/CSS/JavaScript/React/Express JS/Node JS/MongoDB/Bootstrap/Tailwind/Firebase
-
-- 🔭 I’m currently working on this page. 
+ 
 - 🌱 I’m currently learning React 
 - 👯 I’m looking to collaborate on Github 
 
